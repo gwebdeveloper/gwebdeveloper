@@ -1,4 +1,4 @@
-## Hi, I'm Elizabeth 👋
+## Hi, I'm Elizabeth Villarosa-Martin 👋
 
 I'm a web developer with a strong foundation in **HTML and CSS**, and a deep appreciation for building websites that are clear, reliable, and thoughtfully structured. I enjoy working with modern web technologies such as **React and Next.js**, but I believe great web development always begins with solid fundamentals.
 
